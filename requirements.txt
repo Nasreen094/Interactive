@@ -198,7 +198,7 @@ system-service==0.3
 systemd-python==234
 tabulate==0.8.3
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==1.15.2
 tensorflow-estimator==1.14.0
 tensorflow-hub==0.1.1
 termcolor==1.1.0
